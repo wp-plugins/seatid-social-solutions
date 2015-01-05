@@ -11,7 +11,7 @@ SeatID Social Solutions Plugin allows you to implement the SeatID widget onto yo
 
 == Description ==
 
-> SeatID Social Solutions supports online consumers’ selection process by showing them someone they know, or at least someone from their social circles, that has already made a purchase from your brand.
+> SeatID Social Solutions supports online consumers selection process by showing them someone they know, or at least someone from their social circles, that has already made a purchase from your brand.
 
 Smart marketers know that social proof is the marketing tactic for easing the minds of worried customers.
 With the power of the internet at their fingertips, customers can know an immense amount of information about your business before ever speaking with a salesperson.
@@ -29,7 +29,7 @@ How can you get it? SeatID has made this part easy for you, it has developed an 
 3. Register to SeatID at http://www.seatid.com/register
 4. On the 'Settings' page of your WordPress SeatID plugin, insert your App ID as provided during your SeatID registration
 5. Set your account name and business address
-6. You’re done. Enjoy the socialization of your website!
+6. You are done. Enjoy the socialization of your website!
 
 == Frequently Asked Questions ==
 
@@ -39,7 +39,7 @@ Socializing is a key element in the decision-making process. A rapidly increasin
 
 = How much does it cost? =
 
-SeatID offers a [30-day free trial account](http://www.seatid.com.com/register/). No credit card is required and no long-term commitments. After the initial 30-day free trial, the price is based on the size of your website or mobile app and the features and capabilities you want to use.
+SeatID offers a [30-day free trial account](http://www.seatid.com/register/). No credit card is required and no long-term commitments. After the initial 30-day free trial, the price is based on the size of your website or mobile app and the features and capabilities you want to use.
 
 = Do I need a developer to implement SeatID on my website? =
 
